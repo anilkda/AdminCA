@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 28 Jun 2018 21:58:10 at http://admincast.com/adminca/preview/admin_2/html/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://admincast.com/adminca/preview/admin_2/html/index.html -O1 "C:\My Web Sites\Adminca" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:03:21	Error: 	"Not Found" (404) at link admincast.com/adminca/preview/admin_2/html/assets/vendors/prism/themes/prism.css (from admincast.com/adminca/preview/admin_2/html/buttons-fab.html)
+22:03:21	Error: 	"Not Found" (404) at link admincast.com/adminca/preview/admin_2/html/assets/vendors/prism/prism.js (from admincast.com/adminca/preview/admin_2/html/buttons-fab.html)
+22:03:34	Error: 	"Not Found" (404) at link admincast.com/adminca/preview/admin_2/html/buttons.html (from admincast.com/adminca/preview/admin_2/html/form_advanced.html)
+22:03:40	Error: 	"Not Found" (404) at link admincast.com/adminca/preview/admin_2/html/assets/css/pages/image-cropping.css (from admincast.com/adminca/preview/admin_2/html/image_cropping.html)
+22:03:40	Error: 	"Not Found" (404) at link admincast.com/adminca/preview/admin_2/html/cropped.jpg (from admincast.com/adminca/preview/admin_2/html/image_cropping.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 53 seconds : 344 links scanned, 338 files written (17756903 bytes overall) [8056907 bytes received at 22824 bytes/sec], 12413637 bytes transferred using HTTP compression in 242 files, ratio 21%, 20.2 requests per connection
+(5 errors, 0 warnings, 0 messages)
